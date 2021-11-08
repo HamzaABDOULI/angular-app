@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: hamzaabdouli/angular-app:v1 
+        image: hamzaabdouli/angular-app2:v1
         ports: 
         - containerPort: 80 
 
